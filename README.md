@@ -2,7 +2,6 @@
 
 This repository provides examples of sorting algorithms coded in Javascript.
 
-```
 ## Author
 
 Jared Blumer - [Github](https://github.com/jaredblumer)

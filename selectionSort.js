@@ -1,30 +1,28 @@
 // Selection Sort in Javascript
 // Author: Jared Blumer
 
-function swap(values, firstIndex, secondIndex) {
-  var temp = values[firstIndex];
-  values[firstIndex] = values[secondIndex];
-  values[secondIndex] = temp;
-}
-
-function selectionSort(values) {
-  var len = values.length,
+function selectionSort(arr) {
+  var len = arr.length,
       min;
 
   for (var i = 0; i < len; i++) {
 
     min = i;
-
+    
     for (var j = i + 1; j < len; j++) {
-
-      if (values[j] < values[min]) {
+      if (arr[j] < arr[min]) {
         min = j;
       }
     }
 
     if (min != i){
-      swap(values, i, min);
+      // Swap values
+      var temp = arr[i];
+      arr[i] = arr[min];
+      arr[min] = temp;
     }
   }
+
+  return arr;
 
 }

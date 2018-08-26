@@ -1,4 +1,4 @@
-// Selection Sort in Javascript
+// Bubble Sort in Javascript
 // Author: Jared Blumer
 
 function bubbleSort(arr) {

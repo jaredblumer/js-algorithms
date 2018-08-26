@@ -1,4 +1,4 @@
-# Sorting Algorithms in Javascript
+# Sorting and Search Algorithms in Javascript
 
 This repository provides examples of sorting algorithms coded in Javascript.
 

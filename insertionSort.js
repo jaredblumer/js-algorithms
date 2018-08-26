@@ -1,4 +1,4 @@
-// Selection Sort in Javascript
+// Insertion Sort in Javascript
 // Author: Jared Blumer
 
 function insertionSort(arr) {

@@ -6,9 +6,8 @@ function selectionSort(arr) {
       min;
 
   for (var i = 0; i < len; i++) {
-
     min = i;
-    
+
     for (var j = i + 1; j < len; j++) {
       if (arr[j] < arr[min]) {
         min = j;

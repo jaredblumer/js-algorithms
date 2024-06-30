@@ -1,5 +1,5 @@
 // Insertion Sort in Javascript
-// Author: Jared Blumer
+// Author: Shy Blumer (they/them)
 
 function insertionSort(arr) {
   var length = arr.length,

@@ -1,5 +1,5 @@
 // Selection Sort in Javascript
-// Author: Jared Blumer
+// Author: Shy Blumer (they/them)
 
 function selectionSort(arr) {
   var len = arr.length,

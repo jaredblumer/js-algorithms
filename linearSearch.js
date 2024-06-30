@@ -1,5 +1,5 @@
 // Linear Search in Javascript
-// Author: Jared Blumer
+// Author: Shy Blumer (they/them)
 
 function linearSearch(target, arr) {
   var length = arr.length;

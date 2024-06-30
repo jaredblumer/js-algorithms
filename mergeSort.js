@@ -1,5 +1,5 @@
 // Merge Sort in Javascript
-// Author: Jared Blumer
+// Author: Shy Blumer (they/them)
 
 function mergeSort(arr) {
 

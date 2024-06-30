@@ -1,5 +1,5 @@
 // Binary Search in Javascript
-// Author: Jared Blumer
+// Author: Shy Blumer (they/them)
 
 function binarySearch(target, arr) {
   var start = 0,

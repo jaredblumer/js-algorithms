@@ -1,5 +1,5 @@
 // Bubble Sort in Javascript
-// Author: Jared Blumer
+// Author: Shy Blumer (they/them)
 
 function bubbleSort(arr) {
 

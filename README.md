@@ -49,10 +49,9 @@ Binary Search is a fast search algorithm with a time complexity of O(log n). Thi
 - **Space Complexity:** O(1)
 
 ## Author
-**Shy Blumer** (they/them), Full-Stack Software Engineer and Data Analyst 🏳️‍🌈🏳️‍⚧️  
-- [GitHub](https://github.com/shyblumer)
-- [LinkedIn](https://www.linkedin.com/in/shyblumer/)
-- [Résumé](https://www.imshy.net/resume)
+**Jared Blumer**, Full-Stack Software Engineer and Data Analyst
+- [GitHub](https://github.com/jaredblumer)
+- [LinkedIn](https://www.linkedin.com/in/jaredblumer/)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/license/mit).
